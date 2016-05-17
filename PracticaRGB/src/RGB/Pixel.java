@@ -5,6 +5,8 @@ public class Pixel{
 	private int y;
 	ColorRGB color;
 	
+	hola caracola
+	
 	public Pixel (int r, int g, int b, int x, int y) throws ColorRGBException{
 		color=new ColorRGB(r,g,b);
 		this.x=x;
